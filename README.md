@@ -16,8 +16,6 @@ Open to **Internships & Entry-Level Roles** in cybersecurity.
 - ⚡ Fun fact: Patent holder blending security with innovation  
 
 ---
-🔭 I’m currently working on  <br>Cybersecurity projects focused on SOC analysis, threat detection, and Python automation.<br><br>👯 I’m looking to collaborate on  <br>Security research and open-source tools.<br><br>🤝 I’m looking for help with  <br>Advanced network defense and automation strategies.<br><br>🌱 I’m currently learning  <br>Incident response and digital forensics.<br><br>💬 Ask me about  <br>SOC operations, network security, and Python scripting.<br><br>⚡ Fun fact  <br>Patent holder with a passion for blending security and innovation.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anish Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishkr649world@gmail.com) 
