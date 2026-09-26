@@ -1,4 +1,21 @@
 # 💫 About Me:
+# Hi, I'm Anish Kumar 👋
+**Cybersecurity Student | SOC Analyst Aspirant | OPWSAT Certified | Patent Holder**
+
+Passionate about **Threat Detection, Incident Response, and Security Automation**.  
+Currently exploring **Python-based security automation, digital forensics, and network defense strategies**.  
+Open to **Internships & Entry-Level Roles** in cybersecurity.
+
+---
+
+## 🐣 About Me
+- 🔭 Working on cybersecurity projects (SOC analysis, threat detection, Python automation)  
+- 👯 Looking to collaborate on security research & open-source tools  
+- 🌱 Learning incident response & digital forensics  
+- 💬 Ask me about SOC operations, network security, and Python scripting  
+- ⚡ Fun fact: Patent holder blending security with innovation  
+
+---
 🔭 I’m currently working on  <br>Cybersecurity projects focused on SOC analysis, threat detection, and Python automation.<br><br>👯 I’m looking to collaborate on  <br>Security research and open-source tools.<br><br>🤝 I’m looking for help with  <br>Advanced network defense and automation strategies.<br><br>🌱 I’m currently learning  <br>Incident response and digital forensics.<br><br>💬 Ask me about  <br>SOC operations, network security, and Python scripting.<br><br>⚡ Fun fact  <br>Patent holder with a passion for blending security and innovation.
 
 
@@ -23,5 +40,5 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Anish122316&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
